@@ -1,0 +1,8 @@
+<h1>Factory Design Patter</h1>
+<p>The factory design pattern enables you to create all kinds of objects of different types with only using one factory object. When you're using some kind of scripting language inside your game, like Lua, all you need to do is expose your factory method to your scripting virtual machine. That saves an aweful lot of time when you'd normally have to expose all your constructors to your scripting virtual machine.</p>
+
+<h2>Examples</h2>
+<p>Please take a look at one of the examples below.</p>
+<ul>
+	<li><a href="../examples/example1.bmx">example1.bmx</a></li>
+</ul>
