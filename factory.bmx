@@ -5,9 +5,9 @@ Rem
 EndRem
 Module htbaapub.factory
 ModuleInfo "Name: htbaapub.factory"
-ModuleInfo "Version: 1.0"
+ModuleInfo "Version: 1.00"
 ModuleInfo "Author: Christiaan Kras"
-ModuleInfo "Git repository: <a href='http://github.com/Htbaa/htbaapub.mod/'>http://github.com/Htbaa/htbaapub.mod/</a>"
+ModuleInfo "Git repository: <a href='http://github.com/Htbaa/factory.mod/'>http://github.com/Htbaa/factory.mod/</a>"
 
 Import brl.map
 Import brl.retro
